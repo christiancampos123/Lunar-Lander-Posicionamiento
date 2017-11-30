@@ -45,7 +45,7 @@ altura proporcional al 20% de la pantalla para hacer que la nave ocupe el 20% qu
 
  ·En el div derecho se encuentra un div mas pequeño en la parte superior que ocupa el ancho del div que lo contiene y a su
 misma vez contiene pequeños divs anchos que contienen la imagen de cada botón con sus medidas y cada imagen redireccióna a
-un enlace a la misma pagina para demostrar que son funcionales.
+un enlace a la misma página para demostrar que son funcionales.
 
  ·En el div inferior se encuentra la imagen de la luna que llega de punta a punta, y dentro contiene dos divs, uno para situar
 la base de aterrizaje situada en la posición indicada en el modelo inicial y el botón de power situado a la derecha de la
@@ -54,7 +54,7 @@ base, este último también funcional y con la misma dirección que los anterior
  ·Finalmente está el menú desplegado con un "z-index" mayor a los demás objetos situados. Este no tenia los botones
 individuales de modo que la solución que puse fue la de hacer un div contenedor de la imagen de fondo, y unos pequeños divs
 (que se ajustan perfectamente al div contenedor de la imagen) funcionales encima de los "botones" del menú. Este menú por
-defecto esta desplegado (para ver la pagina sin el "display:none" en el menú. EL último div del menú redirecciona al segundo
+defecto esta desplegado (para ver la página sin el "display:none" en el menú. EL último div del menú redirecciona al segundo
  html para.
 
 -Las imágenes no eran proporcionales a una imagen 1080p de modo que sprites como la luna (para respetar el modelo) se han
