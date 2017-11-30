@@ -12,14 +12,6 @@ body{
 	background-size:cover;
 	background-position:center;
 }
-	
-.a{
-	background-color:red;
-}
-
-.c2{
-	background-color:blue;
-}
 
 .c2{
 	display:inline-block;
@@ -33,7 +25,6 @@ body{
 	padding-top:1%;
 	height:25%;
 	width:20%;
-	background-color:green;
 }
 
 .boton{
@@ -43,7 +34,6 @@ body{
 	padding-left:10%;
 	height:25%;
 	width:15%;
-	background-color:green;
 }
 
 .a{
@@ -54,7 +44,6 @@ body{
 }
 
 .panel{
-	background-color:blue;
 	width:40%;
 	height:50%;
 	margin-left:5%;
@@ -72,7 +61,6 @@ body{
 	left:34%;
 	width:43%;
 	height:30%;
-	background-color:blue;
 }
 
 .b{
@@ -80,7 +68,6 @@ body{
 	width:40%;
 	height:50%;
 	float:left;
-	background-color:green;
 	text-align:center
 }
 
@@ -92,7 +79,6 @@ body{
 }
 
 .d{
-	background-color:pink;
 	height:50%;
 	width:100%;
 	position:fixed;
@@ -101,7 +87,6 @@ body{
 
 .menu{
 	position:fixed;
-	background-color:grey;
 	opacity:0.5;
 	width:30%;
 	height:80%;
@@ -125,18 +110,17 @@ body{
 
 .atras{
 	text-decoration:none;
+	background-color:blue;
 	text-align:center;
 	position:fixed;
 	width:30%;
 	height:10%;
-	background-color:blue;
 	top:65%;
 	right:30%;
 	z-index:5023
 }
 
 #base1{
-	background-color:green;
 	width:70%;
 	height:100%;
 	position:relative;
@@ -150,7 +134,6 @@ body{
 }
 
 #navecita{
-	background-color:black;
 	height:40%;
 	width:100%;
 	position:relative;
@@ -165,7 +148,6 @@ body{
 #power1{
 	position:relative;
 	width:28%;
-	background-color:red;
 	height:50%;
 	margin-right:0;
 	display:inline-block;
@@ -222,7 +204,6 @@ body{
 	position:relative;
 	width:100%;
 	height:30%;
-	background-color:pink;
 	margin-top:5%
 }
 
@@ -242,7 +223,6 @@ body{
 	position:relative;
 	width:100%;
 	height:30%;
-	background-color:pink;
 	margin-top:5%
 }
 
@@ -256,7 +236,6 @@ body{
 	position:relative;
 	width:100%;
 	height:30%;
-	background-color:pink;
 	margin-top:5%
 }
 
@@ -271,19 +250,18 @@ body{
 	height:100%;
 	width:100%;
 	z-index:1;
-	background-color:black;
 }
 
-#aguja{position:relative;
-height:100%;
-width:100%;
-z-index:2;
-bottom:105%;
-transform:rotate(-112deg);}
- /* -112 grados es 0 de velocidad */
+#aguja{
+	position:relative;
+	height:100%;
+	width:100%;
+	z-index:2;
+	bottom:105%;
+	transform:rotate(-112deg);}
+	/* -112 grados es 0 de velocidad */
 
 #menuabierto{
-	background-color:blue;
 	position:fixed;
 	width:30%;
 	height:80%;
@@ -295,8 +273,6 @@ transform:rotate(-112deg);}
 }
 
 #navemenu{
-	background-color:black;
-	opacity:0.5;
 	position:fixed;
 	width:23%;
 	height:10%;
@@ -308,8 +284,6 @@ transform:rotate(-112deg);}
 }
 
 #lunamenu{
-	background-color:black;
-	opacity:0.5;
 	position:fixed;
 	width:21%;
 	height:9%;
@@ -321,8 +295,6 @@ transform:rotate(-112deg);}
 }
 
 #infomenu{
-	background-color:black;
-	opacity:0.5;
 	position:fixed;
 	width:23%;
 	height:9%;
